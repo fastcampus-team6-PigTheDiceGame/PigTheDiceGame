@@ -1,5 +1,6 @@
 body {
   height: 3000px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 a {
   text-decoration: none;
@@ -22,5 +23,5 @@ header {
 }
 li {
   margin: 12px;
-  font-size: 12px;
+  font-size: 20px;
 }

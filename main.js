@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const images = document.querySelector(".image");
 
 images.addEventListener("mouseenter", function () {
@@ -8,3 +9,5 @@ images.addEventListener("mouseleave", function () {
 });
 
 alert("그래서 저녁 뭐먹음?");
+=======
+>>>>>>> parent of 19903ef (feat : Set js-function)

@@ -6,3 +6,5 @@ images.addEventListener("mouseenter", function () {
 images.addEventListener("mouseleave", function () {
   $(".image").show();
 });
+
+alert("그래서 저녁 뭐먹음?");

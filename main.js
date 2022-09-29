@@ -1,3 +1,4 @@
+
 const images = document.querySelector(".image");
 
 images.addEventListener("mouseenter", function () {
@@ -6,3 +7,4 @@ images.addEventListener("mouseenter", function () {
 images.addEventListener("mouseleave", function () {
   $(".image").show();
 });
+
